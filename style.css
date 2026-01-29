@@ -1,6 +1,6 @@
 /* styling for blog review card box */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     margin: 0;
     display: flex;
     justify-content: center;
