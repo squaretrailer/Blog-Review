@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BLOG REVIEW</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="card-box">
+        <img src="images/html.jpeg" alt="">
+        <button>Learning</button>
+        <p>Published 21 Dec 2023</p>
+        <h3>HTML & CSS foundations</h3>
+        <p>These Languages are the backbone of every website, defining structure, content and presentation.</p>
+    <footer>
+        <img src="images/Avatar_Aang.png" alt="">
+            <h4>Avatar Aang</h4>
+    </footer>
+    </div>
+</body>
+</html>
